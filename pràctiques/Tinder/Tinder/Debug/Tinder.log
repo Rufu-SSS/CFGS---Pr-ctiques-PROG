@@ -1,0 +1,10 @@
+﻿  Tinder.cpp
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(201,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(473,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(497,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(570,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(573,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(596,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(597,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(624,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Tinder.vcxproj -> E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Debug\Tinder.exe

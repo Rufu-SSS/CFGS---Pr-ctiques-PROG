@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AluCiclesGS1\\PolPlanas\\Tasquesexercicis\\multitasca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38B66ED-E7A4-42B3-974E-EEE00F755866}|multitasca\\multitasca.vcxproj|E:\\AluCiclesGS1\\PolPlanas\\Tasquesexercicis\\multitasca\\multitasca\\multitasca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38B66ED-E7A4-42B3-974E-EEE00F755866}|multitasca\\multitasca.vcxproj|solutionrelative:multitasca\\multitasca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "multitasca.cpp",
+              "DocumentMoniker": "E:\\AluCiclesGS1\\PolPlanas\\Tasquesexercicis\\multitasca\\multitasca\\multitasca.cpp",
+              "RelativeDocumentMoniker": "multitasca\\multitasca.cpp",
+              "ToolTip": "E:\\AluCiclesGS1\\PolPlanas\\Tasquesexercicis\\multitasca\\multitasca\\multitasca.cpp",
+              "RelativeToolTip": "multitasca\\multitasca.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T10:42:02.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

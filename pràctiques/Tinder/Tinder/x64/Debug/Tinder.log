@@ -1,0 +1,2 @@
+﻿  Tinder.cpp
+E:\AluCiclesGS1\PolPlanas\Exemples\Tinder\Tinder\Tinder.cpp(5,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory

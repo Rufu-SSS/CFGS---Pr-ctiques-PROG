@@ -1,0 +1,3 @@
+﻿  Joc NIM.cpp
+E:\AluCiclesGS1\PolPlanas\Exemples\Exercicis random prog\Joc NIM\Joc NIM\Joc NIM.cpp(29,24): warning C4101: 'jugResta2': variable local sin referencia
+E:\AluCiclesGS1\PolPlanas\Exemples\Exercicis random prog\Joc NIM\Joc NIM\Joc NIM.cpp(32,1): error C4700: se utilizó la variable local 'jugResta1' sin inicializar

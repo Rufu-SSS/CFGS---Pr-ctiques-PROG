@@ -1,0 +1,5 @@
+﻿  multitasca.cpp
+E:\AluCiclesGS1\PolPlanas\multitasca\multitasca\multitasca.cpp(25,16): warning C4309: '=': truncamiento de valor constante
+E:\AluCiclesGS1\PolPlanas\multitasca\multitasca\multitasca.cpp(26,27): warning C4305: '=': truncamiento de '__int64' a 'int'
+E:\AluCiclesGS1\PolPlanas\multitasca\multitasca\multitasca.cpp(26,27): warning C4309: '=': truncamiento de valor constante
+  multitasca.vcxproj -> E:\AluCiclesGS1\PolPlanas\multitasca\multitasca\x64\Debug\multitasca.exe

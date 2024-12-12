@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AluCiclesGS1\\PolPlanas\\Exemples\\Exercicis random prog\\FreakyStory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ACAE65-39B7-45D7-AC9C-7729BEAC88C7}|FreakyStory.vcxproj|E:\\AluCiclesGS1\\PolPlanas\\Exemples\\Exercicis random prog\\FreakyStory\\FreakyStory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7ACAE65-39B7-45D7-AC9C-7729BEAC88C7}|FreakyStory.vcxproj|solutionrelative:FreakyStory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreakyStory.cpp",
+              "DocumentMoniker": "E:\\AluCiclesGS1\\PolPlanas\\Exemples\\Exercicis random prog\\FreakyStory\\FreakyStory.cpp",
+              "RelativeDocumentMoniker": "FreakyStory.cpp",
+              "ToolTip": "E:\\AluCiclesGS1\\PolPlanas\\Exemples\\Exercicis random prog\\FreakyStory\\FreakyStory.cpp",
+              "RelativeToolTip": "FreakyStory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T09:45:26.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
